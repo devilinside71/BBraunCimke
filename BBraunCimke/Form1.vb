@@ -1,10 +1,4 @@
 ﻿Public Class Form1
-    Public strLcat As String
-    Public strLlot As String
-    Public strLCz As String
-    Public strLsk As String
-    Public strLsize As String
-    Private mintEnterCounter As Integer
 
     Private Sub ButtonEng_Click(sender As Object, e As EventArgs) Handles ButtonEng.Click
         Call ZebraPrint.ChangeToEnKey()
@@ -43,14 +37,14 @@
             Call ProcessCode(strKat, strSarzs)
             TextBoxPld.SelectAll()
             TextBoxPld.Focus()
-            mintEnterCounter = 0
+            gintEnterCounter = 0
         End If
     End Sub
 
     Private Sub TextBoxPld_KeyDown(sender As Object, e As KeyEventArgs) Handles TextBoxPld.KeyDown
         If e.KeyCode = Keys.Enter Then
-            mintEnterCounter = mintEnterCounter + 1
-            If mintEnterCounter = 2 Then
+            gintEnterCounter = gintEnterCounter + 1
+            If gintEnterCounter = 2 Then
                 'MsgBox("Nyomtat")
                 If LabelKat.Text <> "" Then
                     Call PrintZPL()
@@ -61,7 +55,7 @@
                 LabelSvk.Text = ""
                 LabelKat.Text = ""
                 TextBoxKat.Focus()
-                mintEnterCounter = 0
+                gintEnterCounter = 0
             End If
         End If
     End Sub
@@ -72,76 +66,11 @@
         LabelCze.Text = ""
         LabelSvk.Text = ""
         LabelKat.Text = ""
-        mintEnterCounter = 0
+        gintEnterCounter = 0
         TextBoxPld.SelectAll()
-    End Sub
-    Public Sub ProcessCode(code As String, sarzs As String)
-        Dim prCode As String
-        Dim srtMeret As String
-        Dim prSarzs As String
-        Dim outTxt As String
-        prCode = Mid(code, 6, 9)
-        prSarzs = Mid(sarzs, 3, 4)
-        outTxt = vbNullString
-        For i = 0 To cimkenames.Count - 1
-            If cimkenames(i) = prCode Then
-                srtMeret = cimkesizes(i)
-                outTxt = prCode & "    " & prSarzs & "    " & srtMeret
-                LabelKat.Text = outTxt
-                LabelCze.Text = cimkecze(i)
-                LabelSvk.Text = cimkesvk(i)
-                strLcat = prCode
-                strLlot = prSarzs
-                strLsize = srtMeret
-                strLCz = cimkecze(i)
-                strLsk = cimkesvk(i)
-            End If
-        Next
-    End Sub
-    Public Sub PrintZPL()
-        Dim s As String
-        Dim pd As New PrintDialog()
-        Dim res As Boolean
-
-        s = zplcodes(0)
-        s = s.Replace("LABELREF", strLcat)
-        s = s.Replace("LABELLOT", strLlot)
-        s = s.Replace("LABELCZ", ZebraPrint.GetZPLutf8Code(strLCz))
-        s = s.Replace("LABELSK", ZebraPrint.GetZPLutf8Code(strLsk))
-        s = s.Replace("LABELSIZE", strLsize)
-        s = s.Replace("LABELQTY", TextBoxPld.Text)
-
-
-        ' Open the printer dialog box, and then allow the user to select a printer.
-        res = ZebraPrint.SendStringToPrinter(Trim(ComboBoxPrinter.Text), s)
-
-
     End Sub
 
     Private Sub ButtonManual_Click(sender As Object, e As EventArgs) Handles ButtonManual.Click
-        Dim prCode As String
-        Dim srtMeret As String
-        Dim prSarzs As String
-        Dim outTxt As String
-        prCode = InputBox("Cikkszám")
-        prSarzs = InputBox("Sarzs")
-        outTxt = vbNullString
-        For i = 0 To cimkenames.Count - 1
-            If cimkenames(i) = prCode Then
-                srtMeret = cimkesizes(i)
-                outTxt = prCode & "    " & prSarzs & "    " & srtMeret
-                LabelKat.Text = outTxt
-                LabelCze.Text = cimkecze(i)
-                LabelSvk.Text = cimkesvk(i)
-                strLcat = prCode
-                strLlot = prSarzs
-                strLsize = srtMeret
-                strLCz = cimkecze(i)
-                strLsk = cimkesvk(i)
-            End If
-        Next
-        TextBoxPld.SelectAll()
-        TextBoxPld.Focus()
-        mintEnterCounter = 0
+        Call ProcessManual()
     End Sub
 End Class
