@@ -39,6 +39,7 @@ Partial Class Form1
         Me.Label7 = New System.Windows.Forms.Label()
         Me.TextBoxPld = New System.Windows.Forms.TextBox()
         Me.ComboBoxPrinter = New System.Windows.Forms.ComboBox()
+        Me.ButtonManual = New System.Windows.Forms.Button()
         Me.TableLayoutPanel1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -64,6 +65,7 @@ Partial Class Form1
         Me.TableLayoutPanel1.Controls.Add(Me.Label7, 0, 5)
         Me.TableLayoutPanel1.Controls.Add(Me.TextBoxPld, 1, 5)
         Me.TableLayoutPanel1.Controls.Add(Me.ComboBoxPrinter, 1, 6)
+        Me.TableLayoutPanel1.Controls.Add(Me.ButtonManual, 2, 4)
         Me.TableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.TableLayoutPanel1.Location = New System.Drawing.Point(0, 0)
         Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
@@ -242,6 +244,16 @@ Partial Class Form1
         Me.ComboBoxPrinter.Size = New System.Drawing.Size(437, 28)
         Me.ComboBoxPrinter.TabIndex = 18
         '
+        'ButtonManual
+        '
+        Me.ButtonManual.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.ButtonManual.Location = New System.Drawing.Point(570, 219)
+        Me.ButtonManual.Name = "ButtonManual"
+        Me.ButtonManual.Size = New System.Drawing.Size(95, 48)
+        Me.ButtonManual.TabIndex = 19
+        Me.ButtonManual.Text = "Manuális bevitel"
+        Me.ButtonManual.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -273,4 +285,5 @@ Partial Class Form1
     Friend WithEvents Label7 As Label
     Friend WithEvents TextBoxPld As TextBox
     Friend WithEvents ComboBoxPrinter As ComboBox
+    Friend WithEvents ButtonManual As Button
 End Class

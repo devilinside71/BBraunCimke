@@ -117,4 +117,31 @@
 
 
     End Sub
+
+    Private Sub ButtonManual_Click(sender As Object, e As EventArgs) Handles ButtonManual.Click
+        Dim prCode As String
+        Dim srtMeret As String
+        Dim prSarzs As String
+        Dim outTxt As String
+        prCode = InputBox("Cikkszám")
+        prSarzs = InputBox("Sarzs")
+        outTxt = vbNullString
+        For i = 0 To cimkenames.Count - 1
+            If cimkenames(i) = prCode Then
+                srtMeret = cimkesizes(i)
+                outTxt = prCode & "    " & prSarzs & "    " & srtMeret
+                LabelKat.Text = outTxt
+                LabelCze.Text = cimkecze(i)
+                LabelSvk.Text = cimkesvk(i)
+                strLcat = prCode
+                strLlot = prSarzs
+                strLsize = srtMeret
+                strLCz = cimkecze(i)
+                strLsk = cimkesvk(i)
+            End If
+        Next
+        TextBoxPld.SelectAll()
+        TextBoxPld.Focus()
+        mintEnterCounter = 0
+    End Sub
 End Class
