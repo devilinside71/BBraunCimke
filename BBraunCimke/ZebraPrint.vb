@@ -3,7 +3,7 @@ Imports System.Drawing.Printing
 Imports System.Runtime.InteropServices
 Imports System.Text
 Imports System.Web
-
+'http://labelary.com/viewer.html
 Public Class ZebraPrint
 
     ' Structure and API declarions:
