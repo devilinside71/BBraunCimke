@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<printers>
+  <printer name="Z6Mplus oroszos">
+    <winname>Z6Mplus</winname>
+  </printer>
+  <printer name="Alap S4M">
+    <winname>S4M_regi</winname>
+  </printer>
+</printers> 

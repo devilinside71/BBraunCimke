@@ -1,0 +1,2974 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cimkek>
+<cimke name="210510036">
+<eng>Torque screwdriver</eng>
+<ger>Drehmoment Schraubenzieher</ger>
+<cze>Šroubovák s omezovačem  kroutícího  momentu T9 / 1 NM</cze>
+<svk>momentovaný skrutkovač T9 / 1 NM</svk>
+<size>T9 / 1 NM</size>
+</cimke>
+
+<cimke name="210510044">
+<eng>Torque screwdriver</eng>
+<ger>Drehmoment Schraubenzieher</ger>
+<cze>Šroubovák s omezovačem  kroutícího  momentu T15 / 1.5 NM</cze>
+<svk>momentovaný skrutkovač T15 / 1.5 NM</svk>
+<size>T15 / 1.5 NM</size>
+</cimke>
+
+<cimke name="210510046">
+<eng>Torque screwdriver</eng>
+<ger>Drehmoment Schraubenzieher</ger>
+<cze>Šroubovák s omezovačem  kroutícího  momentu T25 / 3.5 NM</cze>
+<svk>momentovaný skrutkovač T25 / 3.5 NM</svk>
+<size>T25 / 3.5 NM</size>
+</cimke>
+
+<cimke name="210510222">
+<eng>Drill stop</eng>
+<ger>Bohrer Anhalter</ger>
+<cze>Zarážka na vrták 2 MM</cze>
+<svk>Zarážka na vrták 2 MM</svk>
+<size>2 MM</size>
+</cimke>
+
+<cimke name="210510227">
+<eng>Drill stop</eng>
+<ger>Bohrer Anhalter</ger>
+<cze>Zarážka na vrták 2,8 MM</cze>
+<svk>Zarážka na vrták 2,8 MM</svk>
+<size>2,8 MM</size>
+</cimke>
+
+<cimke name="210510240">
+<eng>Drill stop</eng>
+<ger>Bohrer Anhalter</ger>
+<cze>Zarážka na vrták 4 MM</cze>
+<svk>Zarážka na vrták 4 MM</svk>
+<size>4 MM</size>
+</cimke>
+
+<cimke name="210720009">
+<eng>Screwdriver</eng>
+<ger>Schraubenzieher</ger>
+<cze>Šroubovák T9</cze>
+<svk>Skrutkovač T9</svk>
+<size>T9</size>
+</cimke>
+
+<cimke name="210720015">
+<eng>Screwdriver</eng>
+<ger>Schraubenzieher</ger>
+<cze>Šroubovák T15</cze>
+<svk>Skrutkovač T15</svk>
+<size>T15</size>
+</cimke>
+
+<cimke name="210720025">
+<eng>Screwdriver</eng>
+<ger>Schraubenzieher</ger>
+<cze>Šroubovák T25</cze>
+<svk>Skrutkovač T25</svk>
+<size>T25</size>
+</cimke>
+
+<cimke name="233800014">
+<eng>Filled up tray (VDR)</eng>
+<ger>Aufgefülltes Tablett (VDR)</ger>
+<cze>Síto s instrumentáriem (VDR)</cze>
+<svk>Sito s inštrumentáriom</svk>
+<size></size>
+</cimke>
+
+<cimke name="233800015">
+<eng>Tray - VDR</eng>
+<ger>Schale - VDR</ger>
+<cze>Síto - VDR</cze>
+<svk>Sito - VDR</svk>
+<size></size>
+</cimke>
+
+<cimke name="233800016">
+<eng>Filled up tray (VDH)</eng>
+<ger>Aufgefülltes Tablett (VDH)</ger>
+<cze>Síto s instrumentáriem (VDH)</cze>
+<svk>Sito s inštrumentáriom</svk>
+<size></size>
+</cimke>
+
+<cimke name="233800017">
+<eng>Tray - VDH</eng>
+<ger>Schale - VDH</ger>
+<cze>síto - VDH</cze>
+<svk>Sito - VDR</svk>
+<size></size>
+</cimke>
+
+<cimke name="233800018">
+<eng>Filled up tray (VDT)</eng>
+<ger>Aufgefülltes Tablett (VDT)</ger>
+<cze>Síto s instrumentáriem(VDT)</cze>
+<svk>Sito s inštrumentáriom</svk>
+<size></size>
+</cimke>
+
+<cimke name="233800019">
+<eng>Tray - VDT</eng>
+<ger>Síto - VDT</ger>
+<cze>Síto - VDT</cze>
+<svk>Sito - VDR</svk>
+<size></size>
+</cimke>
+
+<cimke name="233800022">
+<eng>Filled up tray (VPT)</eng>
+<ger>Aufgefülltes Tablett (VPT)</ger>
+<cze>Síto s instrumentáriem (VPT)</cze>
+<svk>Sito s inštrumentáriom</svk>
+<size></size>
+</cimke>
+
+<cimke name="233800023">
+<eng>Tray - VPT</eng>
+<ger>Schale - VPT</ger>
+<cze>Síto - VPT</cze>
+<svk>Sito - VDR</svk>
+<size></size>
+</cimke>
+
+<cimke name="260827108">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X8 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X8 HLAVA 4 MM</svk>
+<size>2,7X8 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827109">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X9 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X9 HLAVA 4 MM</svk>
+<size>2,7X9 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827110">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X10 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X10 HLAVA 4 MM</svk>
+<size>2,7X10 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827111">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X11 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X11 HLAVA 4 MM</svk>
+<size>2,7X11 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827112">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X12 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X12 HLAVA 4 MM</svk>
+<size>2,7X12 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827113">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X13 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X13 HLAVA 4 MM</svk>
+<size>2,7X13 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827114">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X14 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X14 HLAVA 4 MM</svk>
+<size>2,7X14 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827115">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X15 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X15 HLAVA 4 MM</svk>
+<size>2,7X15 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827116">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X16 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X16 HLAVA 4 MM</svk>
+<size>2,7X16 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827117">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X17 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X17 HLAVA 4 MM</svk>
+<size>2,7X17 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827118">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X18 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X18 HLAVA 4 MM</svk>
+<size>2,7X18 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827119">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X19 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X19 HLAVA 4 MM</svk>
+<size>2,7X19 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827120">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X20 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X20 HLAVA 4 MM</svk>
+<size>2,7X20 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827121">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X21 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X21 HLAVA 4 MM</svk>
+<size>2,7X21 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827122">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X22 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X22 HLAVA 4 MM</svk>
+<size>2,7X22 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827123">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X23 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X23 HLAVA 4 MM</svk>
+<size>2,7X23 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827124">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X24 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X24 HLAVA 4 MM</svk>
+<size>2,7X24 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827125">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X25 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X25 HLAVA 4 MM</svk>
+<size>2,7X25 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827126">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X26 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X26 HLAVA 4 MM</svk>
+<size>2,7X26 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827127">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X27 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X27 HLAVA 4 MM</svk>
+<size>2,7X27 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827128">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X28 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X28 HLAVA 4 MM</svk>
+<size>2,7X28 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827129">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X29 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X29 HLAVA 4 MM</svk>
+<size>2,7X29 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827130">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X30 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X30 HLAVA 4 MM</svk>
+<size>2,7X30 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827131">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X31 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X31 HLAVA 4 MM</svk>
+<size>2,7X31 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827132">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X32 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X32 HLAVA 4 MM</svk>
+<size>2,7X32 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827133">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X33 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X33 HLAVA 4 MM</svk>
+<size>2,7X33 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827134">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X34 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X34 HLAVA 4 MM</svk>
+<size>2,7X34 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827136">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X36 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X36 HLAVA 4 MM</svk>
+<size>2,7X36 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827138">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X38 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X38 HLAVA 4 MM</svk>
+<size>2,7X38 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827140">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X40 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X40 HLAVA 4 MM</svk>
+<size>2,7X40 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827142">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X42 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X42 HLAVA 4 MM</svk>
+<size>2,7X42 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827144">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X44 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X44 HLAVA 4 MM</svk>
+<size>2,7X44 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827146">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X46 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X46 HLAVA 4 MM</svk>
+<size>2,7X46 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827148">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X48 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X48 HLAVA 4 MM</svk>
+<size>2,7X48 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827150">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X50 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X50 HLAVA 4 MM</svk>
+<size>2,7X50 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827152">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X52 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X52 HLAVA 4 MM</svk>
+<size>2,7X52 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827154">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X54 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X54 HLAVA 4 MM</svk>
+<size>2,7X54 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827156">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X56 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X56 HLAVA 4 MM</svk>
+<size>2,7X56 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827158">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X58 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X58 HLAVA 4 MM</svk>
+<size>2,7X58 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260827160">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 2,7X60 HLAVA 4 MM</cze>
+<svk>Vortex uzamykacia skrutka 2,7X60 HLAVA 4 MM</svk>
+<size>2,7X60 HEAD 4 MM</size>
+</cimke>
+
+<cimke name="260835510">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X10 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X10 MM</svk>
+<size>3,5X10 MM</size>
+</cimke>
+
+<cimke name="260835512">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X12 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X12 MM</svk>
+<size>3,5X12 MM</size>
+</cimke>
+
+<cimke name="260835514">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X14 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X14 MM</svk>
+<size>3,5X14 MM</size>
+</cimke>
+
+<cimke name="260835516">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X16 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X16 MM</svk>
+<size>3,5X16 MM</size>
+</cimke>
+
+<cimke name="260835518">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X18 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X18 MM</svk>
+<size>3,5X18 MM</size>
+</cimke>
+
+<cimke name="260835520">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X20 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X20 MM</svk>
+<size>3,5X20 MM</size>
+</cimke>
+
+<cimke name="260835522">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X22 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X22 MM</svk>
+<size>3,5X22 MM</size>
+</cimke>
+
+<cimke name="260835524">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X24 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X24 MM</svk>
+<size>3,5X24 MM</size>
+</cimke>
+
+<cimke name="260835526">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X26 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X26 MM</svk>
+<size>3,5X26 MM</size>
+</cimke>
+
+<cimke name="260835528">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X28 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X28 MM</svk>
+<size>3,5X28 MM</size>
+</cimke>
+
+<cimke name="260835530">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X30 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X30 MM</svk>
+<size>3,5X30 MM</size>
+</cimke>
+
+<cimke name="260835532">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X32 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X32 MM</svk>
+<size>3,5X32 MM</size>
+</cimke>
+
+<cimke name="260835534">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X34 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X34 MM</svk>
+<size>3,5X34 MM</size>
+</cimke>
+
+<cimke name="260835536">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X36 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X36 MM</svk>
+<size>3,5X36 MM</size>
+</cimke>
+
+<cimke name="260835538">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X38 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X38 MM</svk>
+<size>3,5X38 MM</size>
+</cimke>
+
+<cimke name="260835540">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X40 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X40 MM</svk>
+<size>3,5X40 MM</size>
+</cimke>
+
+<cimke name="260835542">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X42 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X42 MM</svk>
+<size>3,5X42 MM</size>
+</cimke>
+
+<cimke name="260835544">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X44 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X44 MM</svk>
+<size>3,5X44 MM</size>
+</cimke>
+
+<cimke name="260835546">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X46 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X46 MM</svk>
+<size>3,5X46 MM</size>
+</cimke>
+
+<cimke name="260835548">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X48 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X48 MM</svk>
+<size>3,5X48 MM</size>
+</cimke>
+
+<cimke name="260835550">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 3,5X50 MM</cze>
+<svk>Vortex uzamykacia skrutka 3,5X50 MM</svk>
+<size>3,5X50 MM</size>
+</cimke>
+
+<cimke name="260851024">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X24 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X24 MM</svk>
+<size>5,1X24 MM</size>
+</cimke>
+
+<cimke name="260851026">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X26 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X26 MM</svk>
+<size>5,1X26 MM</size>
+</cimke>
+
+<cimke name="260851028">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X28 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X28 MM</svk>
+<size>5,1X28 MM</size>
+</cimke>
+
+<cimke name="260851030">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X30 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X30 MM</svk>
+<size>5,1X30 MM</size>
+</cimke>
+
+<cimke name="260851032">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X32 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X32 MM</svk>
+<size>5,1X32 MM</size>
+</cimke>
+
+<cimke name="260851034">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X34 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X34 MM</svk>
+<size>5,1X34 MM</size>
+</cimke>
+
+<cimke name="260851036">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X36 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X36 MM</svk>
+<size>5,1X36 MM</size>
+</cimke>
+
+<cimke name="260851038">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X38 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X38 MM</svk>
+<size>5,1X38 MM</size>
+</cimke>
+
+<cimke name="260851040">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X40 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X40 MM</svk>
+<size>5,1X40 MM</size>
+</cimke>
+
+<cimke name="260851042">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X42 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X42 MM</svk>
+<size>5,1X42 MM</size>
+</cimke>
+
+<cimke name="260851044">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X44 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X44 MM</svk>
+<size>5,1X44 MM</size>
+</cimke>
+
+<cimke name="260851046">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X46 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X46 MM</svk>
+<size>5,1X46 MM</size>
+</cimke>
+
+<cimke name="260851048">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X48 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X48 MM</svk>
+<size>5,1X48 MM</size>
+</cimke>
+
+<cimke name="260851050">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X50 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X50 MM</svk>
+<size>5,1X50 MM</size>
+</cimke>
+
+<cimke name="260851055">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X55 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X55 MM</svk>
+<size>5,1X55 MM</size>
+</cimke>
+
+<cimke name="260851060">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X60 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X60 MM</svk>
+<size>5,1X60 MM</size>
+</cimke>
+
+<cimke name="260851065">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X65 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X65 MM</svk>
+<size>5,1X65 MM</size>
+</cimke>
+
+<cimke name="260851070">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X70 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X70 MM</svk>
+<size>5,1X70 MM</size>
+</cimke>
+
+<cimke name="260851075">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X75 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X75 MM</svk>
+<size>5,1X75 MM</size>
+</cimke>
+
+<cimke name="260851080">
+<eng>Vortex screw</eng>
+<ger>Vortex Schraube</ger>
+<cze>Vortex zamykací šroub 5,1X80 MM</cze>
+<svk>Vortex uzamykacia skrutka 5,1X80 MM</svk>
+<size>5,1X80 MM</size>
+</cimke>
+
+<cimke name="267527008">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X8 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X8 HLAVA 4,5 MM</svk>
+<size>2,7X8 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527010">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X10 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X10 HLAVA 4,5 MM</svk>
+<size>2,7X10 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527012">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X12 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X12 HLAVA 4,5 MM</svk>
+<size>2,7X12 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527014">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X14 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X14 HLAVA 4,5 MM</svk>
+<size>2,7X14 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527016">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X16 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X16 HLAVA 4,5 MM</svk>
+<size>2,7X16 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527018">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X18 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X18 HLAVA 4,5 MM</svk>
+<size>2,7X18 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527020">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X20 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X20 HLAVA 4,5 MM</svk>
+<size>2,7X20 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527022">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X22 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X22 HLAVA 4,5 MM</svk>
+<size>2,7X22 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527024">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X24 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X24 HLAVA 4,5 MM</svk>
+<size>2,7X24 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527026">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X26 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X26 HLAVA 4,5 MM</svk>
+<size>2,7X26 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527028">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X28 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X28 HLAVA 4,5 MM</svk>
+<size>2,7X28 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527030">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X30 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X30 HLAVA 4,5 MM</svk>
+<size>2,7X30 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527032">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X32 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X32 HLAVA 4,5 MM</svk>
+<size>2,7X32 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267527034">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX 2,7X34 HLAVA 4,5 MM</cze>
+<svk>Kortikálna skrutka - TX 2,7X34 HLAVA 4,5 MM</svk>
+<size>2,7X34 HEAD 4,5 MM</size>
+</cimke>
+
+<cimke name="267535010">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X10 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X10 MM</svk>
+<size>3,5X10 MM</size>
+</cimke>
+
+<cimke name="267535012">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X12 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X12 MM</svk>
+<size>3,5X12 MM</size>
+</cimke>
+
+<cimke name="267535014">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X14 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X14 MM</svk>
+<size>3,5X14 MM</size>
+</cimke>
+
+<cimke name="267535016">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X16 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X16 MM</svk>
+<size>3,5X16 MM</size>
+</cimke>
+
+<cimke name="267535018">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X18 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X18 MM</svk>
+<size>3,5X18 MM</size>
+</cimke>
+
+<cimke name="267535020">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X20 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X20 MM</svk>
+<size>3,5X20 MM</size>
+</cimke>
+
+<cimke name="267535022">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X22 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X22 MM</svk>
+<size>3,5X22 MM</size>
+</cimke>
+
+<cimke name="267535024">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X24 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X24 MM</svk>
+<size>3,5X24 MM</size>
+</cimke>
+
+<cimke name="267535026">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X26 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X26 MM</svk>
+<size>3,5X26 MM</size>
+</cimke>
+
+<cimke name="267535028">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X28 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X28 MM</svk>
+<size>3,5X28 MM</size>
+</cimke>
+
+<cimke name="267535030">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X30 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X30 MM</svk>
+<size>3,5X30 MM</size>
+</cimke>
+
+<cimke name="267535032">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X32 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X32 MM</svk>
+<size>3,5X32 MM</size>
+</cimke>
+
+<cimke name="267535034">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X34 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X34 MM</svk>
+<size>3,5X34 MM</size>
+</cimke>
+
+<cimke name="267535035">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X35 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X35 MM</svk>
+<size>3,5X35 MM</size>
+</cimke>
+
+<cimke name="267535036">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X36 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X36 MM</svk>
+<size>3,5X36 MM</size>
+</cimke>
+
+<cimke name="267535038">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X38 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X38 MM</svk>
+<size>3,5X38 MM</size>
+</cimke>
+
+<cimke name="267535040">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X40 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X40 MM</svk>
+<size>3,5X40 MM</size>
+</cimke>
+
+<cimke name="267535042">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X42 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X42 MM</svk>
+<size>3,5X42 MM</size>
+</cimke>
+
+<cimke name="267535044">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X44 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X44 MM</svk>
+<size>3,5X44 MM</size>
+</cimke>
+
+<cimke name="267535045">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X45 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X45 MM</svk>
+<size>3,5X45 MM</size>
+</cimke>
+
+<cimke name="267535046">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X46 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X46 MM</svk>
+<size>3,5X46 MM</size>
+</cimke>
+
+<cimke name="267535048">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X48 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X48 MM</svk>
+<size>3,5X48 MM</size>
+</cimke>
+
+<cimke name="267535050">
+<eng>Cortical bone screw - TX          CL</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX      CL 3,5X50 MM</cze>
+<svk>Kortikálna skrutka - TX  CL 3,5X50 MM</svk>
+<size>3,5X50 MM</size>
+</cimke>
+
+<cimke name="267551026">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX       5,1X26 MM </cze>
+<svk>Kortikálna skrutka - TX 5,1X26 MM</svk>
+<size>5,1X26 MM</size>
+</cimke>
+
+<cimke name="267551028">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX       5,1X28 MM </cze>
+<svk>Kortikálna skrutka - TX 5,1X28 MM</svk>
+<size>5,1X28 MM</size>
+</cimke>
+
+<cimke name="267551030">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX       5,1X30 MM </cze>
+<svk>Kortikálna skrutka - TX 5,1X30 MM</svk>
+<size>5,1X30 MM</size>
+</cimke>
+
+<cimke name="267551032">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX       5,1X32 MM </cze>
+<svk>Kortikálna skrutka - TX 5,1X32 MM</svk>
+<size>5,1X32 MM</size>
+</cimke>
+
+<cimke name="267551034">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX       5,1X34 MM </cze>
+<svk>Kortikálna skrutka - TX 5,1X34 MM</svk>
+<size>5,1X34 MM</size>
+</cimke>
+
+<cimke name="267551036">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX       5,1X36 MM </cze>
+<svk>Kortikálna skrutka - TX 5,1X36 MM</svk>
+<size>5,1X36 MM</size>
+</cimke>
+
+<cimke name="267551038">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX       5,1X38 MM </cze>
+<svk>Kortikálna skrutka - TX 5,1X38 MM</svk>
+<size>5,1X38 MM</size>
+</cimke>
+
+<cimke name="267551040">
+<eng>Cortical bone screw - TX</eng>
+<ger>Corticalis-Schraube - TX</ger>
+<cze>Kortikální  šroub - TX       5,1X40 MM </cze>
+<svk>Kortikálna skrutka - TX 5,1X40 MM</svk>
+<size>5,1X40 MM</size>
+</cimke>
+
+<cimke name="275212902">
+<eng>Double drill sleeve - V</eng>
+<ger>Doppelbohrbuchse - V</ger>
+<cze>Dvojité vrtací pouzdro - V; MALÉ</cze>
+<svk>Dvojité vrtacie púzdro - V; MALÉ</svk>
+<size>SMALL</size>
+</cimke>
+
+<cimke name="275214902">
+<eng>Double drill sleeve - V</eng>
+<ger>Doppelbohrbuchse - V</ger>
+<cze>Dvojité vrtací pouzdro - V; VELKÉ</cze>
+<svk>Dvojité vrtacie púzdro - V; VEĽKÉ</svk>
+<size>LARGE</size>
+</cimke>
+
+<cimke name="280114103">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; VELKÁ; LEVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; VEĽKÁ; ĽAVÁ; 3H</svk>
+<size>LARGE LEFT 3H</size>
+</cimke>
+
+<cimke name="280114105">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; VELKÁ; LEVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; VEĽKÁ; ĽAVÁ; 5H</svk>
+<size>LARGE LEFT 5H</size>
+</cimke>
+
+<cimke name="280114108">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; VELKÁ; LEVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; VEĽKÁ; ĽAVÁ; 8H</svk>
+<size>LARGE LEFT 8H</size>
+</cimke>
+
+<cimke name="280114203">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; VELKÁ; PRAVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; VEĽKÁ; PRAVÁ; 3H</svk>
+<size>LARGE RIGHT 3H</size>
+</cimke>
+
+<cimke name="280114205">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; VELKÁ; PRAVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; VEĽKÁ; PRAVÁ; 5H</svk>
+<size>LARGE RIGHT 5H</size>
+</cimke>
+
+<cimke name="280114208">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; VELKÁ; PRAVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; VEĽKÁ; PRAVÁ; 8H</svk>
+<size>LARGE RIGHT 8H</size>
+</cimke>
+
+<cimke name="280114303">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; STŘEDNÍ; LEVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; STREDNÁ; ĽAVÁ; 3H</svk>
+<size>MEDIUM LEFT 3H</size>
+</cimke>
+
+<cimke name="280114305">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; STŘEDNÍ; LEVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; STREDNÁ; ĽAVÁ; 5H</svk>
+<size>MEDIUM LEFT 5H</size>
+</cimke>
+
+<cimke name="280114308">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; STŘEDNÍ; LEVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; STREDNÁ; ĽAVÁ; 8H</svk>
+<size>MEDIUM LEFT 8H</size>
+</cimke>
+
+<cimke name="280114403">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; STŘEDNÍ; PRAVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; STREDNÁ; PRAVÁ; 3H</svk>
+<size>MEDIUM RIGHT 3H</size>
+</cimke>
+
+<cimke name="280114405">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; STŘEDNÍ; PRAVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; STREDNÁ; PRAVÁ; 5H</svk>
+<size>MEDIUM RIGHT 5H</size>
+</cimke>
+
+<cimke name="280114408">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; STŘEDNÍ; PRAVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; STREDNÁ; PRAVÁ; 8H</svk>
+<size>MEDIUM RIGHT 8H</size>
+</cimke>
+
+<cimke name="280114503">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; MALÁ; LEVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; MALÁ; ĽAVÁ; 3H</svk>
+<size>SMALL LEFT 3H</size>
+</cimke>
+
+<cimke name="280114505">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; MALÁ; LEVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; MALÁ; ĽAVÁ; 5H</svk>
+<size>SMALL LEFT 5H</size>
+</cimke>
+
+<cimke name="280114508">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; MALÁ; LEVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; MALÁ; ĽAVÁ; 8H</svk>
+<size>SMALL LEFT 8H</size>
+</cimke>
+
+<cimke name="280114603">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; MALÁ; PRAVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; MALÁ; PRAVÁ; 3H</svk>
+<size>SMALL RIGHT 3H</size>
+</cimke>
+
+<cimke name="280114605">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; MALÁ; PRAVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; MALÁ; PRAVÁ; 5H</svk>
+<size>SMALL RIGHT 5H</size>
+</cimke>
+
+<cimke name="280114608">
+<eng>Vortex distal radius plate - V+</eng>
+<ger>Vortex Distale Radiusplatte - V+</ger>
+<cze>Vortex dlaha pro distální radius - V+; MALÁ; PRAVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V+; MALÁ; PRAVÁ; 8H</svk>
+<size>SMALL RIGHT 8H</size>
+</cimke>
+
+<cimke name="280114716">
+<eng>Vortex distal radius plate - D</eng>
+<ger>Vortex Distale Radiusplatte - D</ger>
+<cze>Vortex dlaha pro distální radius - D; LEVÁ 16H</cze>
+<svk>Vortex dlaha pre distálny rádius - D; ĽAVÁ 16H</svk>
+<size>LEFT 16H</size>
+</cimke>
+
+<cimke name="280114718">
+<eng>Vortex distal radius plate - D</eng>
+<ger>Vortex Distale Radiusplatte - D</ger>
+<cze>Vortex dlaha pro distální radius - D; LEVÁ 18H</cze>
+<svk>Vortex dlaha pre distálny rádius - D; ĽAVÁ 18H</svk>
+<size>LEFT 18H</size>
+</cimke>
+
+<cimke name="280114816">
+<eng>Vortex distal radius plate - D</eng>
+<ger>Vortex Distale Radiusplatte - D</ger>
+<cze>Vortex dlaha pro distální radius - D; PRAVÁ 16H</cze>
+<svk>Vortex dlaha pre distálny rádius - D; PRAVÁ 16H</svk>
+<size>RIGHT 16H</size>
+</cimke>
+
+<cimke name="280114818">
+<eng>Vortex distal radius plate - D</eng>
+<ger>Vortex Distale Radiusplatte - D</ger>
+<cze>Vortex dlaha pro distální radius - D; PRAVÁ 18H</cze>
+<svk>Vortex dlaha pre distálny rádius - D; PRAVÁ 18H</svk>
+<size>RIGHT 18H</size>
+</cimke>
+
+<cimke name="280114901">
+<eng>Plate bender</eng>
+<ger>Plattenbieger</ger>
+<cze>Ohýbač na dlahy 4 MM</cze>
+<svk>Ohýbač dlahy 4 MM</svk>
+<size>4 MM</size>
+</cimke>
+
+<cimke name="280114902">
+<eng>Double drill sleeve - PAS</eng>
+<ger>Doppelbohrbuchse - PAS</ger>
+<cze>Dvojité vrtací pouzdro - PAS 2 MM</cze>
+<svk>Dvojité vrtacie púzdro - PAS 2 MM</svk>
+<size>2 MM</size>
+</cimke>
+
+<cimke name="280114903">
+<eng>Spiral drill with quick-connecting end</eng>
+<ger>Spir.Boh.m.Schnellanschl.</ger>
+<cze>Spirální vrták s rychlospojkou 2X125 MM</cze>
+<svk>Špiralovy vrták s rychlospojkou 2X125 MM</svk>
+<size>2X125 MM</size>
+</cimke>
+
+<cimke name="280114905">
+<eng>Depth Gauge</eng>
+<ger>Längenmesser</ger>
+<cze>Hloubkoměr 2.7-3.5 MM</cze>
+<svk>Hlbkomer 2.7-3.5 MM</svk>
+<size>2.7-3.5 MM</size>
+</cimke>
+
+<cimke name="280114906">
+<eng>Threaded sleeve</eng>
+<ger>Buchse mit Gewinde</ger>
+<cze>Závitové pouzdro 2 MM</cze>
+<svk>Závitové púzdro 2 MM</svk>
+<size>2 MM</size>
+</cimke>
+
+<cimke name="280115103">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; VELKÁ; LEVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; VEĽKÁ; ĽAVÁ; 3H</svk>
+<size>LARGE LEFT 3H</size>
+</cimke>
+
+<cimke name="280115105">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; VELKÁ; LEVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; VEĽKÁ; ĽAVÁ; 5H</svk>
+<size>LARGE LEFT 5H</size>
+</cimke>
+
+<cimke name="280115108">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; VELKÁ; LEVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; VEĽKÁ; ĽAVÁ; 8H</svk>
+<size>LARGE LEFT 8H</size>
+</cimke>
+
+<cimke name="280115203">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; VELKÁ; PRAVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; VEĽKÁ; PRAVÁ; 3H</svk>
+<size>LARGE RIGHT 3H</size>
+</cimke>
+
+<cimke name="280115205">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; VELKÁ; PRAVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; VEĽKÁ; PRAVÁ; 5H</svk>
+<size>LARGE RIGHT 5H</size>
+</cimke>
+
+<cimke name="280115208">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; VELKÁ; PRAVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; VEĽKÁ; PRAVÁ; 8H</svk>
+<size>LARGE RIGHT 8H</size>
+</cimke>
+
+<cimke name="280115303">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; STŘEDNÍ; LEVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; STREDNÁ; ĽAVÁ; 3H</svk>
+<size>MEDIUM LEFT 3H</size>
+</cimke>
+
+<cimke name="280115305">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; STŘEDNÍ; LEVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; STREDNÁ; ĽAVÁ; 5H</svk>
+<size>MEDIUM LEFT 5H</size>
+</cimke>
+
+<cimke name="280115308">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; STŘEDNÍ; LEVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; STREDNÁ; ĽAVÁ; 8H</svk>
+<size>MEDIUM LEFT 8H</size>
+</cimke>
+
+<cimke name="280115310">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; STŘEDNÍ; LEVÁ; 10H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; STREDNÁ; ĽAVÁ; 10H</svk>
+<size>MEDIUM LEFT 10H</size>
+</cimke>
+
+<cimke name="280115312">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; STŘEDNÍ; LEVÁ; 12H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; STREDNÁ; ĽAVÁ; 12H</svk>
+<size>MEDIUM LEFT 12H</size>
+</cimke>
+
+<cimke name="280115403">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; STŘEDNÍ; PRAVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; STREDNÁ; PRAVÁ; 3H</svk>
+<size>MEDIUM RIGHT 3H</size>
+</cimke>
+
+<cimke name="280115405">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; STŘEDNÍ; PRAVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; STREDNÁ; PRAVÁ; 5H</svk>
+<size>MEDIUM RIGHT 5H</size>
+</cimke>
+
+<cimke name="280115408">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; STŘEDNÍ; PRAVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; STREDNÁ; PRAVÁ; 8H</svk>
+<size>MEDIUM RIGHT 8H</size>
+</cimke>
+
+<cimke name="280115410">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; STŘEDNÍ; PRAVÁ; 10H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; STREDNÁ; PRAVÁ; 10H</svk>
+<size>MEDIUM RIGHT 10H</size>
+</cimke>
+
+<cimke name="280115412">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; STŘEDNÍ; PRAVÁ; 12H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; STREDNÁ; PRAVÁ; 12H</svk>
+<size>MEDIUM RIGHT 12H</size>
+</cimke>
+
+<cimke name="280115503">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; MALÁ; LEVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; MALÁ; ĽAVÁ; 3H</svk>
+<size>SMALL LEFT 3H</size>
+</cimke>
+
+<cimke name="280115505">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; MALÁ; LEVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; MALÁ; ĽAVÁ; 5H</svk>
+<size>SMALL LEFT 5H</size>
+</cimke>
+
+<cimke name="280115508">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; MALÁ; LEVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; MALÁ; ĽAVÁ; 8H</svk>
+<size>SMALL LEFT 8H</size>
+</cimke>
+
+<cimke name="280115603">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; MALÁ; PRAVÁ; 3H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; MALÁ; PRAVÁ; 3H</svk>
+<size>SMALL RIGHT 3H</size>
+</cimke>
+
+<cimke name="280115605">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; MALÁ; PRAVÁ; 5H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; MALÁ; PRAVÁ; 5H</svk>
+<size>SMALL RIGHT 5H</size>
+</cimke>
+
+<cimke name="280115608">
+<eng>Vortex distal radius plate - V</eng>
+<ger>Vortex Distale Radiusplatte - V</ger>
+<cze>Vortex dlaha pro distální radius - V; MALÁ; PRAVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálny rádius - V; MALÁ; PRAVÁ; 8H</svk>
+<size>SMALL RIGHT 8H</size>
+</cimke>
+
+<cimke name="280122506">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; LEVÁ 6H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; ĽAVÁ; 6H</svk>
+<size>LEFT 6H</size>
+</cimke>
+
+<cimke name="280122508">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; LEVÁ 8H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; ĽAVÁ; 8H</svk>
+<size>LEFT 8H</size>
+</cimke>
+
+<cimke name="280122510">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; LEVÁ 10H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; ĽAVÁ; 10H</svk>
+<size>LEFT 10H</size>
+</cimke>
+
+<cimke name="280122512">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; LEVÁ 12H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; ĽAVÁ; 12H</svk>
+<size>LEFT 12H</size>
+</cimke>
+
+<cimke name="280122514">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; LEVÁ 14H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; ĽAVÁ; 14H</svk>
+<size>LEFT 14H</size>
+</cimke>
+
+<cimke name="280122516">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; LEVÁ 16H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; ĽAVÁ; 16H</svk>
+<size>LEFT 16H</size>
+</cimke>
+
+<cimke name="280122518">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; LEVÁ 18H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; ĽAVÁ; 18H</svk>
+<size>LEFT 18H</size>
+</cimke>
+
+<cimke name="280122606">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; PRAVÁ; 6H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; PRAVÁ; 6H</svk>
+<size>RIGHT 6H</size>
+</cimke>
+
+<cimke name="280122608">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; PRAVÁ; 8H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; PRAVÁ; 8H</svk>
+<size>RIGHT 8H</size>
+</cimke>
+
+<cimke name="280122610">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; PRAVÁ; 10H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; PRAVÁ; 10H</svk>
+<size>RIGHT 10H</size>
+</cimke>
+
+<cimke name="280122612">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; PRAVÁ; 12H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; PRAVÁ; 12H</svk>
+<size>RIGHT 12H</size>
+</cimke>
+
+<cimke name="280122614">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; PRAVÁ; 14H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; PRAVÁ; 14H</svk>
+<size>RIGHT 14H</size>
+</cimke>
+
+<cimke name="280122616">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; PRAVÁ; 16H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; PRAVÁ; 16H</svk>
+<size>RIGHT 16H</size>
+</cimke>
+
+<cimke name="280122618">
+<eng>Vortex distal tibia plate - M</eng>
+<ger>Vortex Distalische Platte f. Tibia - M</ger>
+<cze>Vortex dlaha pro distální tibii - M; PRAVÁ; 18H</cze>
+<svk>Vortex dlaha pre distálnu tíbiu - M; PRAVÁ; 18H</svk>
+<size>RIGHT 18H</size>
+</cimke>
+
+<cimke name="280122702">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; LEVÁ 2H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; ĽAVÁ; 2H</svk>
+<size>LEFT 2H</size>
+</cimke>
+
+<cimke name="280122704">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; LEVÁ 4H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; ĽAVÁ; 4H</svk>
+<size>LEFT 4H</size>
+</cimke>
+
+<cimke name="280122706">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; LEVÁ 6H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; ĽAVÁ; 6H</svk>
+<size>LEFT 6H</size>
+</cimke>
+
+<cimke name="280122708">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; LEVÁ 8H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; ĽAVÁ; 8H</svk>
+<size>LEFT 8H</size>
+</cimke>
+
+<cimke name="280122710">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; LEVÁ 10H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; ĽAVÁ; 10H</svk>
+<size>LEFT 10H</size>
+</cimke>
+
+<cimke name="280122712">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; LEVÁ 12H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; ĽAVÁ; 12H</svk>
+<size>LEFT 12H</size>
+</cimke>
+
+<cimke name="280122802">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; PRAVÁ; 2H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; PRAVÁ; 2H</svk>
+<size>RIGHT 2H</size>
+</cimke>
+
+<cimke name="280122804">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; PRAVÁ; 4H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; PRAVÁ; 4H</svk>
+<size>RIGHT 4H</size>
+</cimke>
+
+<cimke name="280122806">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; PRAVÁ; 6H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; PRAVÁ; 6H</svk>
+<size>RIGHT 6H</size>
+</cimke>
+
+<cimke name="280122808">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; PRAVÁ; 8H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; PRAVÁ; 8H</svk>
+<size>RIGHT 8H</size>
+</cimke>
+
+<cimke name="280122810">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; PRAVÁ; 10H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; PRAVÁ; 10H</svk>
+<size>RIGHT 10H</size>
+</cimke>
+
+<cimke name="280122812">
+<eng>Vortex proximal tibia plate - LT</eng>
+<ger>Vortex proximal tibia platte - LT</ger>
+<cze>Vortex dlaha pro proximální tibii - LT; PRAVÁ; 12H</cze>
+<svk>Vortex dlaha pre proximálnu tíbiu - LT; PRAVÁ; 12H</svk>
+<size>RIGHT 12H</size>
+</cimke>
+
+<cimke name="280122902">
+<eng>Target device - VDT plate</eng>
+<ger>Zielgerät - VDT platte</ger>
+<cze>Cílící zařízení - VDT dlaha </cze>
+<svk>Cieliacie zariadenie - VDT dlaha</svk>
+<size></size>
+</cimke>
+
+<cimke name="280122903">
+<eng>Double drill sleeve - PAS</eng>
+<ger>Doppelbohrbuchse - PAS</ger>
+<cze>Dvojité vrtací pouzdro - PAS 2.8 MM</cze>
+<svk>Dvojite vrtacie púzdro - PAS 2.8 MM</svk>
+<size>2.8 MM</size>
+</cimke>
+
+<cimke name="280122904">
+<eng>Depth Gauge</eng>
+<ger>Längenmesser</ger>
+<cze>Hloubkoměr 8-60 MM</cze>
+<svk>Hlbkomer 8-60 MM</svk>
+<size>8-60 MM</size>
+</cimke>
+
+<cimke name="280122905">
+<eng>Spiral drill with quick-connecting end</eng>
+<ger>Spir.Boh.m.Schnellanschl.</ger>
+<cze>Spirální vrták s rychlospojkou 2.8X135 MM</cze>
+<svk>Špiralovy vrták s rychlospojkou 2.8X135 MM</svk>
+<size>2.8X135 MM</size>
+</cimke>
+
+<cimke name="280122906">
+<eng>Spiral drill with quick-connecting end</eng>
+<ger>Spir.Boh.m.Schnellanschl.</ger>
+<cze>Spirální vrták s rychlospojkou 2.8X190 MM</cze>
+<svk>Špiralovy vrták s rychlospojkou 2.8X190 MM</svk>
+<size>2.8X190 MM</size>
+</cimke>
+
+<cimke name="280122907">
+<eng>Plate bender</eng>
+<ger>Plattenbieger</ger>
+<cze>Ohýbač na dlahy 6 MM</cze>
+<svk>Ohýbač dlahy 6 MM</svk>
+<size>6 MM</size>
+</cimke>
+
+<cimke name="280122909">
+<eng>Target device - VPT plate</eng>
+<ger>Zielgerät - VPT platte</ger>
+<cze>Cílící zařízení - VPT dlaha </cze>
+<svk>Cieliacie zariadenie - VPT dlaha</svk>
+<size></size>
+</cimke>
+
+<cimke name="280122910">
+<eng>Double drill sleeve - PAS</eng>
+<ger>Doppelbohrbuchse - PAS</ger>
+<cze>Dvojité vrtací pouzdro - PAS 4 MM</cze>
+<svk>Dvojite vrtacie púzdro - PAS 4 MM</svk>
+<size>4 MM</size>
+</cimke>
+
+<cimke name="280122912">
+<eng>Depth Gauge</eng>
+<ger>Längenmesser</ger>
+<cze>Hloubkoměr 10-90 MM</cze>
+<svk>Hlbkomer 10-90 MM</svk>
+<size>10-90 MM</size>
+</cimke>
+
+<cimke name="280122914">
+<eng>Plate bender - V</eng>
+<ger>Plattenbieger - V</ger>
+<cze>Ohýbač na dlahy - V 6 MM</cze>
+<svk>Ohýbač dlahy - V 6 MM</svk>
+<size>6 MM</size>
+</cimke>
+
+<cimke name="280122915">
+<eng>Spiral drill with quick-connecting end</eng>
+<ger>Spir.Boh.m.Schnellanschl.</ger>
+<cze>Spirální vrták s rychlospojkou 4X260 MM</cze>
+<svk>Špiralovy vrták s rychlospojkou 4X260 MM</svk>
+<size>4X260 MM</size>
+</cimke>
+
+<cimke name="280122916">
+<eng>Threaded sleeve - V</eng>
+<ger>Buchse mit Gewinde - V</ger>
+<cze>Závitové pouzdro - V 2.8 MM</cze>
+<svk>Závitové púzdro - V 2.8 MM</svk>
+<size>2.8 MM</size>
+</cimke>
+
+<cimke name="280220303">
+<eng>Vortex olecranon plate</eng>
+<ger>Vortex Ellenbogenspitzenplatte</ger>
+<cze>Vortex dlaha pre olecranon; LEVÁ 3H</cze>
+<svk>Vortex dlaha pre olecranon; ĽAVÁ 3H</svk>
+<size>LEFT 3H</size>
+</cimke>
+
+<cimke name="280220305">
+<eng>Vortex olecranon plate</eng>
+<ger>Vortex Ellenbogenspitzenplatte</ger>
+<cze>Vortex dlaha pre olecranon; LEVÁ 5H</cze>
+<svk>Vortex dlaha pre olecranon; ĽAVÁ 5H</svk>
+<size>LEFT 5H</size>
+</cimke>
+
+<cimke name="280220307">
+<eng>Vortex olecranon plate</eng>
+<ger>Vortex Ellenbogenspitzenplatte</ger>
+<cze>Vortex dlaha pre olecranon; LEVÁ 7H</cze>
+<svk>Vortex dlaha pre olecranon; ĽAVÁ 7H</svk>
+<size>LEFT 7H</size>
+</cimke>
+
+<cimke name="280220309">
+<eng>Vortex olecranon plate</eng>
+<ger>Vortex Ellenbogenspitzenplatte</ger>
+<cze>Vortex dlaha pre olecranon; LEVÁ 9H</cze>
+<svk>Vortex dlaha pre olecranon; ĽAVÁ 9H</svk>
+<size>LEFT 9H</size>
+</cimke>
+
+<cimke name="280220311">
+<eng>Vortex olecranon plate</eng>
+<ger>Vortex Ellenbogenspitzenplatte</ger>
+<cze>Vortex dlaha pre olecranon; LEVÁ 11H</cze>
+<svk>Vortex dlaha pre olecranon; ĽAVÁ 11H</svk>
+<size>LEFT 11H</size>
+</cimke>
+
+<cimke name="280220403">
+<eng>Vortex olecranon plate</eng>
+<ger>Vortex Ellenbogenspitzenplatte</ger>
+<cze>Vortex dlaha pre olecranon; PRAVÁ 3H</cze>
+<svk>Vortex dlaha pre olecranon; PRAVÁ 3H</svk>
+<size>RIGHT 3H</size>
+</cimke>
+
+<cimke name="280220405">
+<eng>Vortex olecranon plate</eng>
+<ger>Vortex Ellenbogenspitzenplatte</ger>
+<cze>Vortex dlaha pre olecranon; PRAVÁ 5H</cze>
+<svk>Vortex dlaha pre olecranon; PRAVÁ 5H</svk>
+<size>RIGHT 5H</size>
+</cimke>
+
+<cimke name="280220407">
+<eng>Vortex olecranon plate</eng>
+<ger>Vortex Ellenbogenspitzenplatte</ger>
+<cze>Vortex dlaha pre olecranon; PRAVÁ 7H</cze>
+<svk>Vortex dlaha pre olecranon; PRAVÁ 7H</svk>
+<size>RIGHT 7H</size>
+</cimke>
+
+<cimke name="280220409">
+<eng>Vortex olecranon plate</eng>
+<ger>Vortex Ellenbogenspitzenplatte</ger>
+<cze>Vortex dlaha pre olecranon; PRAVÁ 9H</cze>
+<svk>Vortex dlaha pre olecranon; PRAVÁ 9H</svk>
+<size>RIGHT 9H</size>
+</cimke>
+
+<cimke name="280220411">
+<eng>Vortex olecranon plate</eng>
+<ger>Vortex Ellenbogenspitzenplatte</ger>
+<cze>Vortex dlaha pre olecranon; PRAVÁ 11H</cze>
+<svk>Vortex dlaha pre olecranon; PRAVÁ 11H</svk>
+<size>RIGHT 11H</size>
+</cimke>
+
+<cimke name="280260503">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pre claviculu - HK; S LEVÁ 3H</cze>
+<svk>Vortex dlaha pre claviculu - HK; S ĽAVÁ 3H</svk>
+<size>S LEFT 3H</size>
+</cimke>
+
+<cimke name="280260505">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pre claviculu - HK; S LEVÁ 5H</cze>
+<svk>Vortex dlaha pre claviculu - HK; S ĽAVÁ 5H</svk>
+<size>S LEFT 5H</size>
+</cimke>
+
+<cimke name="280260513">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pre claviculu - HK; M LEVÁ 3H</cze>
+<svk>Vortex dlaha pre claviculu - HK; M ĽAVÁ 3H</svk>
+<size>M LEFT 3H</size>
+</cimke>
+
+<cimke name="280260515">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pre claviculu - HK; M LEVÁ 5H</cze>
+<svk>Vortex dlaha pre claviculu - HK; M ĽAVÁ 5H</svk>
+<size>M LEFT 5H</size>
+</cimke>
+
+<cimke name="280260523">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pre claviculu - HK; L LEVÁ 3H</cze>
+<svk>Vortex dlaha pre claviculu - HK; L ĽAVÁ 3H</svk>
+<size>L LEFT 3H</size>
+</cimke>
+
+<cimke name="280260525">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pre claviculu - HK; L LEVÁ 5H</cze>
+<svk>Vortex dlaha pre claviculu - HK; L ĽAVÁ 5H</svk>
+<size>L LEFT 5H</size>
+</cimke>
+
+<cimke name="280260603">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pre claviculu - HK; S PRAVÁ 3H</cze>
+<svk>Vortex dlaha pre claviculu - HK; S PRAVÁ 3H</svk>
+<size>S RIGHT 3H</size>
+</cimke>
+
+<cimke name="280260605">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pre claviculu - HK; S PRAVÁ 5H</cze>
+<svk>Vortex dlaha pre claviculu - HK; S PRAVÁ 5H</svk>
+<size>S RIGHT 5H</size>
+</cimke>
+
+<cimke name="280260613">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pro claviculu - HK; M PRAVÁ 3H</cze>
+<svk>Vortex dlaha pre claviculu - HK; M PRAVÁ 3H</svk>
+<size>M RIGHT 3H</size>
+</cimke>
+
+<cimke name="280260615">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pro claviculu - HK; M PRAVÁ 5H</cze>
+<svk>Vortex dlaha pre claviculu - HK; M PRAVÁ 5H</svk>
+<size>M RIGHT 5H</size>
+</cimke>
+
+<cimke name="280260623">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pro claviculu - HK; L PRAVÁ 3H</cze>
+<svk>Vortex dlaha pre claviculu - HK; L PRAVÁ 3H</svk>
+<size>L RIGHT 3H</size>
+</cimke>
+
+<cimke name="280260625">
+<eng>Vortex clavicle plate - HK</eng>
+<ger>Vortex Clavicula Platte - HK</ger>
+<cze>Vortex dlaha pro claviculu - HK; L PRAVÁ 5H</cze>
+<svk>Vortex dlaha pre claviculu - HK; L PRAVÁ 5H</svk>
+<size>L RIGHT 5H</size>
+</cimke>
+
+<cimke name="280261306">
+<eng>Vortex clavicle plate</eng>
+<ger>Vortex Clavicula Platte</ger>
+<cze>Vortex dlaha pro claviculu; LEVÁ 6H</cze>
+<svk>Vortex dlaha pre claviculu; ĽAVÁ 6H</svk>
+<size>LEFT 6H</size>
+</cimke>
+
+<cimke name="280261307">
+<eng>Vortex clavicle plate</eng>
+<ger>Vortex Clavicula Platte</ger>
+<cze>Vortex dlaha pro claviculu; LEVÁ 7H</cze>
+<svk>Vortex dlaha pre claviculu; ĽAVÁ 7H</svk>
+<size>LEFT 7H</size>
+</cimke>
+
+<cimke name="280261308">
+<eng>Vortex clavicle plate</eng>
+<ger>Vortex Clavicula Platte</ger>
+<cze>Vortex dlaha pro claviculu; LEVÁ 8H</cze>
+<svk>Vortex dlaha pre claviculu; ĽAVÁ 8H</svk>
+<size>LEFT 8H</size>
+</cimke>
+
+<cimke name="280261310">
+<eng>Vortex clavicle plate</eng>
+<ger>Vortex Clavicula Platte</ger>
+<cze>Vortex dlaha pro claviculu; LEVÁ 10H</cze>
+<svk>Vortex dlaha pre claviculu; ĽAVÁ 10H</svk>
+<size>LEFT 10H</size>
+</cimke>
+
+<cimke name="280261406">
+<eng>Vortex clavicle plate</eng>
+<ger>Vortex Clavicula Platte</ger>
+<cze>Vortex dlaha pro claviculu; PRAVÁ 6H</cze>
+<svk>Vortex dlaha pre claviculu; PRAVÁ 6H</svk>
+<size>RIGHT 6H</size>
+</cimke>
+
+<cimke name="280261407">
+<eng>Vortex clavicle plate</eng>
+<ger>Vortex Clavicula Platte</ger>
+<cze>Vortex dlaha pro claviculu; PRAVÁ 7H</cze>
+<svk>Vortex dlaha pre claviculu; PRAVÁ 7H</svk>
+<size>RIGHT 7H</size>
+</cimke>
+
+<cimke name="280261408">
+<eng>Vortex clavicle plate</eng>
+<ger>Vortex Clavicula Platte</ger>
+<cze>Vortex dlaha pro claviculu; PRAVÁ 8H</cze>
+<svk>Vortex dlaha pre claviculu; PRAVÁ 8H</svk>
+<size>RIGHT 8H</size>
+</cimke>
+
+<cimke name="280261410">
+<eng>Vortex clavicle plate</eng>
+<ger>Vortex Clavicula Platte</ger>
+<cze>Vortex dlaha pro claviculu; PRAVÁ 10H</cze>
+<svk>Vortex dlaha pre claviculu; PRAVÁ 10H</svk>
+<size>RIGHT 10H</size>
+</cimke>
+
+<cimke name="280261504">
+<eng>Vortex clavicle plate - H</eng>
+<ger>Vortex Clavicula Platte - H</ger>
+<cze>Vortex dlaha pro claviculu - H; LEVÁ 4H</cze>
+<svk>Vortex dlaha pre claviculu - H; ĽAVÁ 4H</svk>
+<size>LEFT 4H</size>
+</cimke>
+
+<cimke name="280261505">
+<eng>Vortex clavicle plate - H</eng>
+<ger>Vortex Clavicula Platte - H</ger>
+<cze>Vortex dlaha pro claviculu - H; LEVÁ 5H</cze>
+<svk>Vortex dlaha pre claviculu - H; ĽAVÁ 5H</svk>
+<size>LEFT 5H</size>
+</cimke>
+
+<cimke name="280261506">
+<eng>Vortex clavicle plate - H</eng>
+<ger>Vortex Clavicula Platte - H</ger>
+<cze>Vortex dlaha pro claviculu - H; LEVÁ 6H</cze>
+<svk>Vortex dlaha pre claviculu - H; ĽAVÁ 6H</svk>
+<size>LEFT 6H</size>
+</cimke>
+
+<cimke name="280261507">
+<eng>Vortex clavicle plate - H</eng>
+<ger>Vortex Clavicula Platte - H</ger>
+<cze>Vortex dlaha pro claviculu - H; LEVÁ 7H</cze>
+<svk>Vortex dlaha pre claviculu - H; ĽAVÁ 7H</svk>
+<size>LEFT 7H</size>
+</cimke>
+
+<cimke name="280261604">
+<eng>Vortex clavicle plate - H</eng>
+<ger>Vortex Clavicula Platte - H</ger>
+<cze>Vortex dlaha pro claviculu - H; PRAVÁ 4H</cze>
+<svk>Vortex dlaha pre claviculu - H; PRAVÁ 4H</svk>
+<size>RIGHT 4H</size>
+</cimke>
+
+<cimke name="280261605">
+<eng>Vortex clavicle plate - H</eng>
+<ger>Vortex Clavicula Platte - H</ger>
+<cze>Vortex dlaha pro claviculu - H; PRAVÁ 5H</cze>
+<svk>Vortex dlaha pre claviculu - H; PRAVÁ 5H</svk>
+<size>RIGHT 5H</size>
+</cimke>
+
+<cimke name="280261606">
+<eng>Vortex clavicle plate - H</eng>
+<ger>Vortex Clavicula Platte - H</ger>
+<cze>Vortex dlaha pro claviculu - H; PRAVÁ 6H</cze>
+<svk>Vortex dlaha pre claviculu - H; PRAVÁ 6H</svk>
+<size>RIGHT 6H</size>
+</cimke>
+
+<cimke name="280261607">
+<eng>Vortex clavicle plate - H</eng>
+<ger>Vortex Clavicula Platte - H</ger>
+<cze>Vortex dlaha pro claviculu - H; PRAVÁ 7H</cze>
+<svk>Vortex dlaha pre claviculu - H; PRAVÁ 7H</svk>
+<size>RIGHT 7H</size>
+</cimke>
+
+<cimke name="280261706">
+<eng>Vortex clavicle plate - MA</eng>
+<ger>Vortex Clavicula Platte - MA</ger>
+<cze>Vortex dlaha pro claviculu - MA 6H</cze>
+<svk>Vortex dlaha pre claviculu - MA  6H</svk>
+<size>6H</size>
+</cimke>
+
+<cimke name="280261707">
+<eng>Vortex clavicle plate - MA</eng>
+<ger>Vortex Clavicula Platte - MA</ger>
+<cze>Vortex dlaha pro claviculu - MA 7H</cze>
+<svk>Vortex dlaha pre claviculu - MA  7H</svk>
+<size>7H</size>
+</cimke>
+
+<cimke name="280261708">
+<eng>Vortex clavicle plate - MA</eng>
+<ger>Vortex Clavicula Platte - MA</ger>
+<cze>Vortex dlaha pro claviculu - MA 8H</cze>
+<svk>Vortex dlaha pre claviculu - MA  8H</svk>
+<size>8H</size>
+</cimke>
+
+<cimke name="280261800">
+<eng>Filled up tray (VCL)</eng>
+<ger>Aufgefülltes Tablett (VCL)</ger>
+<cze>Síto s instrumentáriem (VCL)</cze>
+<svk>Sito s inštrumentáriom (VCL)</svk>
+<size></size>
+</cimke>
+
+<cimke name="280261801">
+<eng>Tray - VCL</eng>
+<ger>Schale - VCL</ger>
+<cze>Síto - VCL</cze>
+<svk>Sito - (VCL)</svk>
+<size></size>
+</cimke>
+
+<cimke name="280302103">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; LEVÁ 3H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; ĽAVÁ 3H</svk>
+<size>LEFT 3H</size>
+</cimke>
+
+<cimke name="280302105">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; LEVÁ 5H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; ĽAVÁ 5H</svk>
+<size>LEFT 5H</size>
+</cimke>
+
+<cimke name="280302107">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; LEVÁ 7H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; ĽAVÁ 7H</svk>
+<size>LEFT 7H</size>
+</cimke>
+
+<cimke name="280302109">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; LEVÁ 9H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; ĽAVÁ 9H</svk>
+<size>LEFT 9H</size>
+</cimke>
+
+<cimke name="280302111">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; LEVÁ 11H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; ĽAVÁ 11H</svk>
+<size>LEFT 11H</size>
+</cimke>
+
+<cimke name="280302113">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; LEVÁ 13H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; ĽAVÁ 13H</svk>
+<size>LEFT 13H</size>
+</cimke>
+
+<cimke name="280302203">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; PRAVÁ 3H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; PRAVÁ 3H</svk>
+<size>RIGHT 3H</size>
+</cimke>
+
+<cimke name="280302205">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; PRAVÁ 5H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; PRAVÁ 5H</svk>
+<size>RIGHT 5H</size>
+</cimke>
+
+<cimke name="280302207">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; PRAVÁ 7H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; PRAVÁ 7H</svk>
+<size>RIGHT 7H</size>
+</cimke>
+
+<cimke name="280302209">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; PRAVÁ 9H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; PRAVÁ 9H</svk>
+<size>RIGHT 9H</size>
+</cimke>
+
+<cimke name="280302211">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; PRAVÁ 11H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; PRAVÁ 11H</svk>
+<size>RIGHT 11H</size>
+</cimke>
+
+<cimke name="280302213">
+<eng>Vortex distal humeral plate - DL</eng>
+<ger>Vortex Distale Platte f. Humerus - DL</ger>
+<cze>Vortex dlaha pro distální humerus - DL; PRAVÁ 13H</cze>
+<svk>Vortex dlaha pre distálny humerus - DL; PRAVÁ 13H</svk>
+<size>RIGHT 13H</size>
+</cimke>
+
+<cimke name="280302303">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; LEVÁ 3H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; ĽAVÁ 3H</svk>
+<size>LEFT 3H</size>
+</cimke>
+
+<cimke name="280302305">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; LEVÁ 5H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; ĽAVÁ 5H</svk>
+<size>LEFT 5H</size>
+</cimke>
+
+<cimke name="280302307">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; LEVÁ 7H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; ĽAVÁ 7H</svk>
+<size>LEFT 7H</size>
+</cimke>
+
+<cimke name="280302309">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; LEVÁ 9H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; ĽAVÁ 9H</svk>
+<size>LEFT 9H</size>
+</cimke>
+
+<cimke name="280302311">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; LEVÁ 11H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; ĽAVÁ 11H</svk>
+<size>LEFT 11H</size>
+</cimke>
+
+<cimke name="280302313">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; LEVÁ 13H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; ĽAVÁ 13H</svk>
+<size>LEFT 13H</size>
+</cimke>
+
+<cimke name="280302403">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; PRAVÁ 3H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; PRAVÁ 3H</svk>
+<size>RIGHT 3H</size>
+</cimke>
+
+<cimke name="280302405">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; PRAVÁ 5H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; PRAVÁ 5H</svk>
+<size>RIGHT 5H</size>
+</cimke>
+
+<cimke name="280302407">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; PRAVÁ 7H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; PRAVÁ 7H</svk>
+<size>RIGHT 7H</size>
+</cimke>
+
+<cimke name="280302409">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; PRAVÁ 9H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; PRAVÁ 9H</svk>
+<size>RIGHT 9H</size>
+</cimke>
+
+<cimke name="280302411">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; PRAVÁ 11H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; PRAVÁ 11H</svk>
+<size>RIGHT 11H</size>
+</cimke>
+
+<cimke name="280302413">
+<eng>Vortex distal humeral plate - M</eng>
+<ger>Vortex Distale Platte f. Humerus - M</ger>
+<cze>Vortex dlaha pro distální humerus - M; PRAVÁ 13H</cze>
+<svk>Vortex dlaha pre distálny humerus - M; PRAVÁ 13H</svk>
+<size>RIGHT 13H</size>
+</cimke>
+
+<cimke name="280302503">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; LEVÁ 3H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; ĽAVÁ 3H</svk>
+<size>LEFT 3H</size>
+</cimke>
+
+<cimke name="280302505">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; LEVÁ 5H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; ĽAVÁ 5H</svk>
+<size>LEFT 5H</size>
+</cimke>
+
+<cimke name="280302507">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; LEVÁ 7H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; ĽAVÁ 7H</svk>
+<size>LEFT 7H</size>
+</cimke>
+
+<cimke name="280302509">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; LEVÁ 9H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; ĽAVÁ 9H</svk>
+<size>LEFT 9H</size>
+</cimke>
+
+<cimke name="280302511">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; LEVÁ 11H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; ĽAVÁ 11H</svk>
+<size>LEFT 11H</size>
+</cimke>
+
+<cimke name="280302513">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; LEVÁ 13H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; ĽAVÁ 13H</svk>
+<size>LEFT 13H</size>
+</cimke>
+
+<cimke name="280302603">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; PRAVÁ 3H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; PRAVÁ 3H</svk>
+<size>RIGHT 3H</size>
+</cimke>
+
+<cimke name="280302605">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; PRAVÁ 5H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; PRAVÁ 5H</svk>
+<size>RIGHT 5H</size>
+</cimke>
+
+<cimke name="280302607">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; PRAVÁ 7H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; PRAVÁ 7H</svk>
+<size>RIGHT 7H</size>
+</cimke>
+
+<cimke name="280302609">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; PRAVÁ 9H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; PRAVÁ 9H</svk>
+<size>RIGHT 9H</size>
+</cimke>
+
+<cimke name="280302611">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; PRAVÁ 11H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; PRAVÁ 11H</svk>
+<size>RIGHT 11H</size>
+</cimke>
+
+<cimke name="280302613">
+<eng>Vortex distal humeral plate - EDL</eng>
+<ger>Vortex Distale Platte f. Humerus - EDL</ger>
+<cze>Vortex dlaha pro distální humerus - EDL; PRAVÁ 13H</cze>
+<svk>Vortex dlaha pre distálny humerus - EDL; PRAVÁ 13H</svk>
+<size>RIGHT 13H</size>
+</cimke>
+
+<cimke name="280302703">
+<eng>Vortex distal humeral plate - SM</eng>
+<ger>Vortex Distale Platte f. Humerus - SM</ger>
+<cze>Vortex dlaha pro distální humerus - SM 3H</cze>
+<svk>Vortex dlaha pre distálny humerus - SM 3H</svk>
+<size>3H</size>
+</cimke>
+
+<cimke name="280302705">
+<eng>Vortex distal humeral plate - SM</eng>
+<ger>Vortex Distale Platte f. Humerus - SM</ger>
+<cze>Vortex dlaha pro distální humerus - SM 5H</cze>
+<svk>Vortex dlaha pre distálny humerus - SM 5H</svk>
+<size>5H</size>
+</cimke>
+
+<cimke name="280302707">
+<eng>Vortex distal humeral plate - SM</eng>
+<ger>Vortex Distale Platte f. Humerus - SM</ger>
+<cze>Vortex dlaha pro distální humerus - SM 7H</cze>
+<svk>Vortex dlaha pre distálny humerus - SM 7H</svk>
+<size>7H</size>
+</cimke>
+
+<cimke name="280302709">
+<eng>Vortex distal humeral plate - SM</eng>
+<ger>Vortex Distale Platte f. Humerus - SM</ger>
+<cze>Vortex dlaha pro distální humerus - SM 9H</cze>
+<svk>Vortex dlaha pre distálny humerus - SM 9H</svk>
+<size>9H</size>
+</cimke>
+
+<cimke name="280302711">
+<eng>Vortex distal humeral plate - SM</eng>
+<ger>Vortex Distale Platte f. Humerus - SM</ger>
+<cze>Vortex dlaha pro distální humerus - SM 11H</cze>
+<svk>Vortex dlaha pre distálny humerus - SM 11H</svk>
+<size>11H</size>
+</cimke>
+
+<cimke name="919140010">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X10 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X10 MM</svk>
+<size>4X10 MM</size>
+</cimke>
+
+<cimke name="919140012">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X12 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X12 MM</svk>
+<size>4X12 MM</size>
+</cimke>
+
+<cimke name="919140014">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X14 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X14 MM</svk>
+<size>4X14 MM</size>
+</cimke>
+
+<cimke name="919140016">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X16 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X16 MM</svk>
+<size>4X16 MM</size>
+</cimke>
+
+<cimke name="919140018">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X18 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X18 MM</svk>
+<size>4X18 MM</size>
+</cimke>
+
+<cimke name="919140020">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X20 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X20 MM</svk>
+<size>4X20 MM</size>
+</cimke>
+
+<cimke name="919140022">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X22 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X22 MM</svk>
+<size>4X22 MM</size>
+</cimke>
+
+<cimke name="919140024">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X24 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X24 MM</svk>
+<size>4X24 MM</size>
+</cimke>
+
+<cimke name="919140026">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X26 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X26 MM</svk>
+<size>4X26 MM</size>
+</cimke>
+
+<cimke name="919140028">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X28 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X28 MM</svk>
+<size>4X28 MM</size>
+</cimke>
+
+<cimke name="919140030">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X30 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X30 MM</svk>
+<size>4X30 MM</size>
+</cimke>
+
+<cimke name="919140032">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X32 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X32 MM</svk>
+<size>4X32 MM</size>
+</cimke>
+
+<cimke name="919140034">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X34 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X34 MM</svk>
+<size>4X34 MM</size>
+</cimke>
+
+<cimke name="919140035">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X35 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X35 MM</svk>
+<size>4X35 MM</size>
+</cimke>
+
+<cimke name="919140036">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X36 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X36 MM</svk>
+<size>4X36 MM</size>
+</cimke>
+
+<cimke name="919140038">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X38 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X38 MM</svk>
+<size>4X38 MM</size>
+</cimke>
+
+<cimke name="919140040">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X40 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X40 MM</svk>
+<size>4X40 MM</size>
+</cimke>
+
+<cimke name="919140045">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X45 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X45 MM</svk>
+<size>4X45 MM</size>
+</cimke>
+
+<cimke name="919140050">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X50 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X50 MM</svk>
+<size>4X50 MM</size>
+</cimke>
+
+<cimke name="919140055">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X55 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X55 MM</svk>
+<size>4X55 MM</size>
+</cimke>
+
+<cimke name="919140060">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X60 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X60 MM</svk>
+<size>4X60 MM</size>
+</cimke>
+
+<cimke name="919140065">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X65 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X65 MM</svk>
+<size>4X65 MM</size>
+</cimke>
+
+<cimke name="919140070">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X70 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X70 MM</svk>
+<size>4X70 MM</size>
+</cimke>
+
+<cimke name="919140075">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X75 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X75 MM</svk>
+<size>4X75 MM</size>
+</cimke>
+
+<cimke name="919140080">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X80 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X80 MM</svk>
+<size>4X80 MM</size>
+</cimke>
+
+<cimke name="919140085">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X85 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X85 MM</svk>
+<size>4X85 MM</size>
+</cimke>
+
+<cimke name="919140090">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X90 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X90 MM</svk>
+<size>4X90 MM</size>
+</cimke>
+
+<cimke name="919140095">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X95 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X95 MM</svk>
+<size>4X95 MM</size>
+</cimke>
+
+<cimke name="919140100">
+<eng>Canc. screw, self-tapping, f. threaded</eng>
+<ger>Spong.-Schraube,selbstschneidend</ger>
+<cze>Spongiózní šroub, samořezný, plný závit  4X100 MM</cze>
+<svk>Spongiozna skrutka, samorezná, plný závit 4X100 MM</svk>
+<size>4X100 MM</size>
+</cimke>
+
+<cimke name="924265065">
+<eng>Cancellous bone screw ST. "A"</eng>
+<ger>Spongiosa-Schraube "A", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "A" 6,5X65 MM</cze>
+<svk>Spongiozna samorezná skrutka "A" 6,5X65 MM</svk>
+<size>6,5X65 MM</size>
+</cimke>
+
+<cimke name="924265070">
+<eng>Cancellous bone screw ST. "A"</eng>
+<ger>Spongiosa-Schraube "A", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "A" 6,5X70 MM</cze>
+<svk>Spongiozna samorezná skrutka "A" 6,5X70 MM</svk>
+<size>6,5X70 MM</size>
+</cimke>
+
+<cimke name="924265075">
+<eng>Cancellous bone screw ST. "A"</eng>
+<ger>Spongiosa-Schraube "A", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "A" 6,5X75 MM</cze>
+<svk>Spongiozna samorezná skrutka "A" 6,5X75 MM</svk>
+<size>6,5X75 MM</size>
+</cimke>
+
+<cimke name="924265080">
+<eng>Cancellous bone screw ST. "A"</eng>
+<ger>Spongiosa-Schraube "A", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "A" 6,5X80 MM</cze>
+<svk>Spongiozna samorezná skrutka "A" 6,5X80 MM</svk>
+<size>6,5X80 MM</size>
+</cimke>
+
+<cimke name="924365065">
+<eng>Cancellous bone screw ST. "B"</eng>
+<ger>Spongiosa-Schraube "B", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "B" 6,5X65 MM</cze>
+<svk>Spongiozna samorezná skrutka "B" 6,5X65 MM</svk>
+<size>6,5X65 MM</size>
+</cimke>
+
+<cimke name="924365070">
+<eng>Cancellous bone screw ST. "B"</eng>
+<ger>Spongiosa-Schraube "B", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "B" 6,5X70 MM</cze>
+<svk>Spongiozna samorezná skrutka "B" 6,5X70 MM</svk>
+<size>6,5X70 MM</size>
+</cimke>
+
+<cimke name="924365075">
+<eng>Cancellous bone screw ST. "B"</eng>
+<ger>Spongiosa-Schraube "B", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "B" 6,5X75 MM</cze>
+<svk>Spongiozna samorezná skrutka "B" 6,5X75 MM</svk>
+<size>6,5X75 MM</size>
+</cimke>
+
+<cimke name="924365080">
+<eng>Cancellous bone screw ST. "B"</eng>
+<ger>Spongiosa-Schraube "B", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "B" 6,5X80 MM</cze>
+<svk>Spongiozna samorezná skrutka "B" 6,5X80 MM</svk>
+<size>6,5X80 MM</size>
+</cimke>
+
+<cimke name="937512100">
+<eng>Kirschner boring wire</eng>
+<ger>Kirschner-Draht</ger>
+<cze>Kirschnerův drát 1,2X100 MM</cze>
+<svk>Kirschnerov drot 1,2X100 MM</svk>
+<size>1,2X100 MM</size>
+</cimke>
+
+<cimke name="937516150">
+<eng>Kirschner boring wire</eng>
+<ger>Kirschner-Draht</ger>
+<cze>Kirschnerův drát 1.6X150 MM</cze>
+<svk>Kirschnerov drot 1.6X150 MM</svk>
+<size>1.6X150 MM</size>
+</cimke>
+
+<cimke name="937520150">
+<eng>Kirschner boring wire</eng>
+<ger>Kirschner-Draht</ger>
+<cze>Kirschnerův drát 2X150 MM</cze>
+<svk>Kirschnerov drot 2X150 MM</svk>
+<size>2X150 MM</size>
+</cimke>
+
+<cimke name="937520210">
+<eng>Kirschner boring wire</eng>
+<ger>Kirschner-Draht</ger>
+<cze>Kirschnerův drát 2X210 MM</cze>
+<svk>Kirschnerov drot 2X210 MM</svk>
+<size>2X210 MM</size>
+</cimke>
+
+<cimke name="937520230">
+<eng>Kirschner boring wire</eng>
+<ger>Kirschner-Draht</ger>
+<cze>Kirschnerův drát 2X230 MM</cze>
+<svk>Kirschnerov drot 2X230 MM</svk>
+<size>2X230 MM</size>
+</cimke>
+
+<cimke name="939999002">
+<eng>Screw forceps</eng>
+<ger>Klammerpinzette f.Schrauben</ger>
+<cze>Pinzeta na šrouby</cze>
+<svk>Pinzeta na skrutky</svk>
+<size></size>
+</cimke>
+
+<cimke name="914465025">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X25 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X25 MM</svk>
+<size>6,5X25 MM</size>
+</cimke>
+
+<cimke name="914465030">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X30 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X30 MM</svk>
+<size>6,5X30 MM</size>
+</cimke>
+
+<cimke name="914465035">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X35 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X35 MM</svk>
+<size>6,5X35 MM</size>
+</cimke>
+
+<cimke name="914465040">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X40 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X40 MM</svk>
+<size>6,5X40 MM</size>
+</cimke>
+
+<cimke name="914465045">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X45 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X45 MM</svk>
+<size>6,5X45 MM</size>
+</cimke>
+
+<cimke name="914465050">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X50 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X50 MM</svk>
+<size>6,5X50 MM</size>
+</cimke>
+
+<cimke name="914465055">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X55 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X55 MM</svk>
+<size>6,5X55 MM</size>
+</cimke>
+
+<cimke name="914465060">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X60 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X60 MM</svk>
+<size>6,5X60 MM</size>
+</cimke>
+
+<cimke name="914465065">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X65 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X65 MM</svk>
+<size>6,5X65 MM</size>
+</cimke>
+
+<cimke name="914465070">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X70 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X70 MM</svk>
+<size>6,5X70 MM</size>
+</cimke>
+
+<cimke name="914465075">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X75 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X75 MM</svk>
+<size>6,5X75 MM</size>
+</cimke>
+
+<cimke name="914465080">
+<eng>Cancellous bone screw ST. "C"</eng>
+<ger>Spongiosa-Schraube "C", selbstschneid</ger>
+<cze>Spongiózní samořezný šroub "C" 6,5X80 MM</cze>
+<svk>Spongiozna samorezná skrutka "C" 6,5X80 MM</svk>
+<size>6,5X80 MM</size>
+</cimke>
+
+
+
+
+</cimkek>
