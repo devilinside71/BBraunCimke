@@ -108,6 +108,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Font\13656L-001_R1.pdf" />
+    <None Include="Font\77849_002.ZSU" />
+    <None Include="Font\tt0003m_.ttf" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -117,8 +120,10 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+    <None Include="Sanatmetal labels FINAL_CZ_SK_20160425.xlsx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Font\Swiss 721 readmeRev2.txt" />
     <Content Include="Printers.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -128,6 +133,7 @@
     <Content Include="SzlovakCimke.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="zsu-1191148.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
