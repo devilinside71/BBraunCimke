@@ -72,5 +72,6 @@
         Form1.TextBoxPld.SelectAll()
         Form1.TextBoxPld.Focus()
         gintEnterCounter = 0
+
     End Sub
 End Module
