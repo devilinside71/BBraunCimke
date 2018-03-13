@@ -21,8 +21,25 @@
 
     Private Sub TextBoxKat_TextChanged(sender As Object, e As EventArgs) Handles TextBoxKat.TextChanged
         Dim strKat As String
+        Dim minChar = 16
+        'Dim temp
         strKat = Trim(TextBoxKat.Text)
-        If Len(strKat) = 16 Then
+        If Strings.Left(strKat, 2) = "+E" Then
+            minChar = 16
+        End If
+        'GS1
+        If Strings.Left(strKat, 2) = "01" Then
+            minChar = 41
+        End If
+
+        'HIBCC
+        If Len(strKat) = minChar Then
+            If minChar = 41 Then
+                'temp = "+$" + Strings.Mid(strKat, 18, 4)
+                TextBoxKat.Text = "+E178" + Strings.Right(strKat, 9) + "2B"
+                TextBoxSarzs.Text = "+$" + Strings.Mid(strKat, 19, 4) + "00000"
+                Exit Sub
+            End If
             TextBoxSarzs.Focus()
             TextBoxSarzs.Clear()
         End If
